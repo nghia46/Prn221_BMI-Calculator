@@ -1,5 +1,5 @@
 # WPF BMI Calculator
-- Features
+### Features
 - Calculate BIM
 - Show detail message for each sample
 
